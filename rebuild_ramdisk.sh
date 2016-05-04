@@ -31,7 +31,7 @@ RDIR=$(pwd)
 # japanese variants:
 #	dcm = N900D / SC-01F  (NTT Docomo)
 #	kdi = N900J / SCL22   (au by KDDI)
-VARIANT=can
+VARIANT=eur
 
 [ -z $VER ] && \
 # version number
